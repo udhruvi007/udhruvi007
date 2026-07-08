@@ -1,5 +1,5 @@
 # 💫 Hi, I'm **Dhruvi Upadhyay**<br>
-B.Tech IT Student | Aspiring Software Developer | Turning logic into code<br><br>
+B.Tech IT Student | Aspiring Software Developer | Turning logic into code<br>
 
 
 ## 🌐 Socials:
