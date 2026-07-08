@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm **Dhruvi Upadhyay**<br>
-B.Tech IT Student | Aspiring Software Developer | Turning logic into code<br><br>Email Me 👉 ✉️ **dhruvi.pcs@gmail.com** For Collaboration/Project or Anything Else. 😊<br><br>🔭 **I’m currently working on:**  AirMeet (MERN-based video conferencing platform) & Intervo (Interview prep platform)<br>👯 **I’m looking to collaborate on:** Web development projects, C++ programming, and problem-solving using DSA.<br>🌱 **I’m currently learning:** C++, Data Structures & Algorithms, web development and core programming concepts.<br>🤔 **I’m looking for help with:** Open-source contributions and writing clean, efficient code.<br>⚡ **Fun fact:** I’m consistent with learning, even when the code isn’t consistent.<br>📫 **How to reach me:** dhruvi.pcs@gmail.com 
+# 💫 Hi, I'm **Dhruvi Upadhyay**<br>
+B.Tech IT Student | Aspiring Software Developer | Turning logic into code<br><br>
 
 
 ## 🌐 Socials:
@@ -21,10 +21,4 @@ B.Tech IT Student | Aspiring Software Developer | Turning logic into code<br><br
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=udhruvi007&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=udhruvi007&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
